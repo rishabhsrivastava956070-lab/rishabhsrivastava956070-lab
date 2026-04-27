@@ -126,15 +126,7 @@
 
 <td width="50%">
 
-### 💬 Chat App (Optional)
-- Real-time messaging  
-- WebSockets  
 
-👉 [Live](#)
-
-</td>
-</tr>
-</table>
 ---
 
 ## 📊 GitHub Stats
@@ -163,10 +155,7 @@
 
 ---
 
-## 📄 Resume
-👉 [Download Resume](#)
 
----
 
 ## 🌐 Connect With Me
 
