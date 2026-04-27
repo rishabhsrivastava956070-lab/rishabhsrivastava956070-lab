@@ -168,7 +168,7 @@
 ---
 
 ## 📄 Resume
-👉 [Download Resume](PUT_YOUR_LINK_HERE)
+👉 [Download Resume](https://raw.githubusercontent.com/rishabhsrivastava956070-lab/rishabhsrivastava956070-lab/main/r (1).pdf)
 
 ---
 
