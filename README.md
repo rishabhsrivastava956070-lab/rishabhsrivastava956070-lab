@@ -1,5 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
+  <!-- Replace this with your own banner (Canva recommended) -->
   <img src="https://via.placeholder.com/1200x300?text=Rishabh+Srivastava+|+Full+Stack+Developer" />
 </p>
 
@@ -8,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+AI-Powered E-Commerce Website+AI-Powered LMS Website;Future+Software+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+AI-Powered%20E-Commerce;Building%20AI-Powered%20LMS;Future+Software+Engineer&center=true&width=520&height=50">
 </p>
 
 <!-- Profile Views -->
@@ -21,27 +22,27 @@
 ## 🚀 About Me
 - 🎓 3rd Year BTech CSE Student  
 - 💻 Passionate **Full Stack Developer (MERN)**  
-- 🔥 Building real-time & scalable applications  
-- 🧠 Strong focus on **DSA + Development**  
+- 🔥 Building **AI-powered & real-time applications**  
+- 🧠 Focused on **DSA + scalable backend design**  
 - 🎯 Goal: Crack top product-based companies  
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages  
+**Languages**  
 `C++` `JavaScript` `Python`
 
-### 🌐 Frontend  
+**Frontend**  
 `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `React.js` `Next.js`
 
-### ⚙️ Backend  
+**Backend**  
 `Node.js` `Express.js`
 
-### 🗄️ Database  
+**Database**  
 `MongoDB` `PostgreSQL`
 
-### ☁️ Tools & Deployment  
+**Tools & Deployment**  
 `AWS` `Vercel` `Render` `Git` `GitHub`
 
 ---
@@ -52,9 +53,9 @@
 ![Ecommerce Demo](./assets/ecommerce-demo.gif)
 
 - 🧠 AI-based product recommendation system  
-- 🔐 Secure authentication (JWT) & user management  
-- 🛒 Shopping cart, order processing & product management  
-- ⚡ Built with MERN Stack + REST APIs  
+- 🔐 JWT authentication & user management  
+- 🛒 Cart, orders, and product management  
+- ⚡ MERN Stack + REST APIs  
 
 👉 [Live Demo](https://onecart-frontendone-6yv7.onrender.com/) | [GitHub Repo](https://github.com/rishabhsrivastava956070-lab/OneCart-)
 
@@ -63,10 +64,10 @@
 ### 🎓 AI Powered Learning Management System (LMS)
 ![LMS Demo](./assets/lms-demo.gif)
 
-- 🤖 Personalized course recommendations using AI  
+- 🤖 Personalized course recommendations  
 - 👥 Role-Based Access Control (Admin / Student)  
-- 📊 Learning analytics & performance tracking  
-- ⚡ Full-stack MERN application  
+- 📊 Learning analytics & tracking  
+- ⚡ Full MERN stack  
 
 👉 [Live Demo](https://lms-1-ztnp.onrender.com/) | [GitHub Repo](https://github.com/rishabhsrivastava956070-lab/LMS)
 
@@ -75,11 +76,11 @@
 ### 🌱 AI-Driven Smart Irrigation System (IoT + ML)
 ![Irrigation Demo](./assets/irrigation-demo.gif)
 
-- 🌦️ Real-time weather-based irrigation using OpenWeather API  
-- 🤖 Machine Learning model for smart decision making  
-- 📡 ESP8266 + Soil Moisture Sensors integration  
-- ☁️ Flask-based cloud server for prediction  
-- 🔄 Manual override with AI cooldown logic  
+- 🌦️ Weather-based irrigation using OpenWeather API  
+- 🤖 ML-based decision making  
+- 📡 ESP8266 + soil moisture sensors  
+- ☁️ Flask cloud server for predictions  
+- 🔄 Manual override with AI cooldown  
 
 👉 [GitHub Repo](https://github.com/rishabhsrivastava956070-lab/AI-Driven-Smart-Irrigation-System-)
 
@@ -91,23 +92,23 @@
 <tr>
 <td width="50%">
 
-### 🛒 OneCart (E-Commerce)
-- AI product recommendations  
-- Full MERN stack  
-- Secure authentication & cart system  
+### 🛒 OneCart
+- AI recommendations  
+- MERN full stack  
+- Auth + cart system  
 
-👉 [Live](https://onecart-frontendone-6yv7.onrender.com/)
+👉 <a href="https://onecart-frontendone-6yv7.onrender.com/">Live</a>
 
 </td>
 
 <td width="50%">
 
-### 🎓 LMS Platform
+### 🎓 LMS
 - AI learning paths  
 - Role-based system  
 - Analytics dashboard  
 
-👉 [Live](https://lms-1-ztnp.onrender.com/)
+👉 <a href="https://lms-1-ztnp.onrender.com/">Live</a>
 
 </td>
 </tr>
@@ -116,16 +117,24 @@
 <td width="50%">
 
 ### 🌱 Smart Irrigation
-- IoT + ML system  
+- IoT + ML  
 - Real-time automation  
-- Weather-based decisions  
 
-👉 [GitHub](https://github.com/rishabhsrivastava956070-lab/AI-Driven-Smart-Irrigation-System-)
+👉 <a href="https://github.com/rishabhsrivastava956070-lab/AI-Driven-Smart-Irrigation-System-">GitHub</a>
 
 </td>
 
 <td width="50%">
 
+### 💬 Chat App (Optional)
+- Real-time messaging  
+- WebSockets  
+
+👉 <a href="#">Live</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -143,19 +152,21 @@
 ---
 
 ## 🐍 Contribution Snake
-
-![snake gif](https://github.com/rishabhsrivastava956070-lab/rishabhsrivastava956070-lab/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/rishabhsrivastava956070-lab/rishabhsrivastava956070-lab/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 🏆 Achievements
 - 💡 Consistent DSA practice  
-- 🚀 Built full-stack & real-time projects  
+- 🚀 Built AI + full-stack + IoT projects  
 - 📚 Learning system design  
 
 ---
 
+## 📄 Resume
+👉 [Download Resume](PUT_YOUR_LINK_HERE)
 
+---
 
 ## 🌐 Connect With Me
 
