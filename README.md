@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+Real-Time+Apps;Future+Software+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+AI-Powered E-Commerce Website+AI-Powered LMS Website;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
 
 <!-- Profile Views -->
@@ -48,32 +48,38 @@
 
 ## 🔥 Featured Projects (with Live Demos)
 
-### 💬 Real-Time Chat Application
-![Chat Demo](./assets/chat-demo.gif)
+### 🛒 AI Powered E-Commerce Platform (OneCart)
+![Ecommerce Demo](./assets/ecommerce-demo.gif)
 
-- ⚡ MERN + WebSockets  
-- 🔐 Authentication + real-time messaging  
-- 📱 Responsive UI  
+- 🧠 AI-based product recommendation system  
+- 🔐 Secure authentication (JWT) & user management  
+- 🛒 Shopping cart, order processing & product management  
+- ⚡ Built with MERN Stack + REST APIs  
 
 👉 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
-### 🤖 WhatsApp Chatbot
-![Chatbot Demo](./assets/chatbot-demo.gif)
+### 🎓 AI Powered Learning Management System (LMS)
+![LMS Demo](./assets/lms-demo.gif)
 
-- 🤖 Automated response system  
-- 🧠 Backend-driven logic  
+- 🤖 Personalized course recommendations using AI  
+- 👥 Role-Based Access Control (Admin / Student)  
+- 📊 Learning analytics & performance tracking  
+- ⚡ Full-stack MERN application  
 
-👉 [GitHub Repo](#)
+👉 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
-### 🧪 Virtual Lab Platform
-![Lab Demo](./assets/lab-demo.gif)
+### 🌱 AI-Driven Smart Irrigation System (IoT + ML)
+![Irrigation Demo](./assets/irrigation-demo.gif)
 
-- 🧪 Electronics simulations  
-- 📊 CRO, Logic Gates, Amplifiers  
+- 🌦️ Real-time weather-based irrigation using OpenWeather API  
+- 🤖 Machine Learning model for smart decision making  
+- 📡 ESP8266 + Soil Moisture Sensors integration  
+- ☁️ Flask-based cloud server for prediction  
+- 🔄 Manual override with AI cooldown logic  
 
 👉 [GitHub Repo](#)
 
@@ -85,10 +91,10 @@
 <tr>
 <td width="50%">
 
-### 💬 Chat App  
-- Real-time messaging  
-- MERN + Socket.io  
-- Auth system  
+### 🛒 OneCart (E-Commerce)
+- AI product recommendations  
+- Full MERN stack  
+- Secure payments flow  
 
 👉 [Live](#)
 
@@ -96,9 +102,33 @@
 
 <td width="50%">
 
-### 🧪 Virtual Lab  
-- Interactive simulations  
-- Educational platform  
+### 🎓 LMS Platform
+- AI learning paths  
+- Role-based system  
+- Analytics dashboard  
+
+👉 [Live](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌱 Smart Irrigation
+- IoT + ML system  
+- Real-time automation  
+- Weather-based decisions  
+
+👉 [GitHub](#)
+
+</td>
+
+<td width="50%">
+
+### 💬 Chat App (Optional)
+- Real-time messaging  
+- WebSockets  
 
 👉 [Live](#)
 
