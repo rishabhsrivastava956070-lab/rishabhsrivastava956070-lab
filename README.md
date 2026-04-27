@@ -1,4 +1,8 @@
 <!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300?text=Rishabh+Srivastava+|+Full+Stack+Developer" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rishabh Srivastava</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN | Problem Solver</h3>
 
@@ -9,7 +13,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabhsrivastava956070-lab&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=rishabhsrivastava956070-lab&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -17,7 +21,7 @@
 ## 🚀 About Me
 - 🎓 3rd Year BTech CSE Student  
 - 💻 Passionate **Full Stack Developer (MERN)**  
-- 🔥 Building **real-time & scalable applications**  
+- 🔥 Building real-time & scalable applications  
 - 🧠 Strong focus on **DSA + Development**  
 - 🎯 Goal: Crack top product-based companies  
 
@@ -42,27 +46,65 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects (with Live Demos)
 
 ### 💬 Real-Time Chat Application
-- ⚡ Built using MERN + WebSockets  
-- 🔐 Authentication + Live Messaging  
-- 📱 Fully responsive UI  
-👉 *Add your GitHub + Live Link here*
+![Chat Demo](./assets/chat-demo.gif)
+
+- ⚡ MERN + WebSockets  
+- 🔐 Authentication + real-time messaging  
+- 📱 Responsive UI  
+
+👉 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
 ### 🤖 WhatsApp Chatbot
-- 🤖 Automated messaging system  
-- 🧠 Backend logic-based responses  
-👉 *Add your GitHub link*
+![Chatbot Demo](./assets/chatbot-demo.gif)
+
+- 🤖 Automated response system  
+- 🧠 Backend-driven logic  
+
+👉 [GitHub Repo](#)
 
 ---
 
 ### 🧪 Virtual Lab Platform
-- 🧪 Electronics simulation platform  
-- 📊 Includes CRO, Logic Gates, Amplifiers  
-👉 *Add your GitHub link*
+![Lab Demo](./assets/lab-demo.gif)
+
+- 🧪 Electronics simulations  
+- 📊 CRO, Logic Gates, Amplifiers  
+
+👉 [GitHub Repo](#)
+
+---
+
+## 🌐 Portfolio Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 💬 Chat App  
+- Real-time messaging  
+- MERN + Socket.io  
+- Auth system  
+
+👉 [Live](#)
+
+</td>
+
+<td width="50%">
+
+### 🧪 Virtual Lab  
+- Interactive simulations  
+- Educational platform  
+
+👉 [Live](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,10 +121,21 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/rishabhsrivastava956070-lab/rishabhsrivastava956070-lab/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🏆 Achievements
 - 💡 Consistent DSA practice  
-- 🚀 Built multiple full-stack projects  
-- 📚 Actively learning system design  
+- 🚀 Built full-stack & real-time projects  
+- 📚 Learning system design  
+
+---
+
+## 📄 Resume
+👉 [Download Resume](#)
 
 ---
 
@@ -109,7 +162,5 @@
 
 ## ⚡ Developer Quote
 > “First, solve the problem. Then, write clean and scalable code.”
-
----
 
 <!-- ===================== END ===================== -->
