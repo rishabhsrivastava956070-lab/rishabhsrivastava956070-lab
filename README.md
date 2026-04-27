@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <!-- Replace this with your own banner (Canva recommended) -->
-  <img src="https://via.placeholder.com/1200x300?text=Rishabh+Srivastava+|+Full+Stack+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Rishabh%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishabh Srivastava</h1>
