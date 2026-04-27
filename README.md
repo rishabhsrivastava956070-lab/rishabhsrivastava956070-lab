@@ -126,11 +126,15 @@
 
 <td width="50%">
 
-### 💬 Chat App (Optional)
-- Real-time messaging  
-- WebSockets  
+### 💻 CodeArena Pro
+- 🧠 Coding platform for practice & problem solving  
+- ⚡ Interactive UI with real-time feedback  
+- 🌐 Built for developers to improve coding skills  
 
-👉 <a href="#">Live</a>
+👉 <a href="https://codearena-pro.lovable.app/">Live</a> | 
+👉 <a href="https://github.com/rishabhsrivastava956070-lab/codearena-pro-da787198">GitHub</a>
+
+</td>
 
 </td>
 </tr>
