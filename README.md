@@ -56,7 +56,7 @@
 - 🛒 Shopping cart, order processing & product management  
 - ⚡ Built with MERN Stack + REST APIs  
 
-👉 [Live Demo](#) | [GitHub Repo](#)
+👉 [Live Demo](https://onecart-frontendone-6yv7.onrender.com/) | [GitHub Repo](https://github.com/rishabhsrivastava956070-lab/OneCart-)
 
 ---
 
@@ -68,7 +68,7 @@
 - 📊 Learning analytics & performance tracking  
 - ⚡ Full-stack MERN application  
 
-👉 [Live Demo](#) | [GitHub Repo](#)
+👉 [Live Demo](https://lms-1-ztnp.onrender.com/) | [GitHub Repo](https://github.com/rishabhsrivastava956070-lab/LMS)
 
 ---
 
@@ -81,7 +81,7 @@
 - ☁️ Flask-based cloud server for prediction  
 - 🔄 Manual override with AI cooldown logic  
 
-👉 [GitHub Repo](#)
+👉 [GitHub Repo](https://github.com/rishabhsrivastava956070-lab/AI-Driven-Smart-Irrigation-System-)
 
 ---
 
@@ -94,9 +94,9 @@
 ### 🛒 OneCart (E-Commerce)
 - AI product recommendations  
 - Full MERN stack  
-- Secure payments flow  
+- Secure authentication & cart system  
 
-👉 [Live](#)
+👉 [Live](https://onecart-frontendone-6yv7.onrender.com/)
 
 </td>
 
@@ -107,7 +107,7 @@
 - Role-based system  
 - Analytics dashboard  
 
-👉 [Live](#)
+👉 [Live](https://lms-1-ztnp.onrender.com/)
 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 - Real-time automation  
 - Weather-based decisions  
 
-👉 [GitHub](#)
+👉 [GitHub](https://github.com/rishabhsrivastava956070-lab/AI-Driven-Smart-Irrigation-System-)
 
 </td>
 
@@ -135,7 +135,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
