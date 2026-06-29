@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd Year BTech CSE Student  
+- 🎓 4rd Year BTech CSE Student  
 - 💻 Passionate **Full Stack Developer (MERN)**  
 - 🔥 Building **AI-powered & real-time applications**  
 - 🧠 Focused on **DSA + scalable backend design**  
